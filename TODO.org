@@ -1,0 +1,18 @@
+#+TITLE: TODO
+#+AUTHOR: Arthur Aslanyan
+#+EMAIL: arthur.e.aslanyan@gmail.com
+
+* What needs to be done
+** DONE Create student
+** DONE Add grade to student
+** TODO Get average grade
+** TODO Add student to list
+** DONE Student has to have name
+** TODO Student might have custom fields. Common through student list?
+** DONE Student can recieve a grade for a class
+** DONE Student must have list of grades
+** TODO There are different types of grades
+** PROJ Web interface
+*** TODO Add Student
+*** TODO Add grade to Student
+*** TODO See list of students with grades
