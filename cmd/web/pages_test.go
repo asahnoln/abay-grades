@@ -27,4 +27,6 @@ func TestStudentList(t *testing.T) {
 	if want != got {
 		t.Errorf("want response status %d, got %d", want, got)
 	}
+
+	// TODO: Assert that student text is on the page
 }
