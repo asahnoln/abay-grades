@@ -5,8 +5,8 @@
 * What needs to be done
 ** DONE Create student
 ** DONE Add grade to student
-** TODO Get average grade
-** TODO Add student to list
+** DONE Get average grade
+** DONE Add student to list
 ** DONE Student has to have name
 ** TODO Student might have custom fields. Common through student list?
 ** DONE Student can recieve a grade for a class
